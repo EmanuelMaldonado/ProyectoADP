@@ -6,9 +6,9 @@ Rene Emanuel Lopez Maldonado LM211126
 
 Enlace al video de youtube explicando la aplicacion: https://youtu.be/qnctetqATo8
 
-enlace al avance del manual de usuario: https://drive.google.com/file/d/1QEeNJALNDSHwE5Q6aHDBhfwzPcl4tTJW/view?usp=sharing
+enlace del manual de usuario: https://drive.google.com/file/d/1QEeNJALNDSHwE5Q6aHDBhfwzPcl4tTJW/view?usp=sharing
 
-enlace al avance del manual tecnico: https://drive.google.com/file/d/1VKEEtCDxRwrxZbXQV6VTrEAey6m7F29q/view?usp=sharing
+enlace del manual tecnico: https://drive.google.com/file/d/1VKEEtCDxRwrxZbXQV6VTrEAey6m7F29q/view?usp=sharing
 
 Enlace de trello se agrego el usuario alexander_siguenza: https://trello.com/invite/b/f321meEK/ATTI2afd214e61304709b26a7d398f773d993D9E5F24/proyecto-adp
 
